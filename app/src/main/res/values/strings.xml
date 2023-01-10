@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RememberMe</string>
+    <string name="task_name">Task Name</string>
+    <string name="datetime">DateTime</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="enter_new_task">Enter New Task</string>
+    <string name="add">Add</string>
+    <string name="created">Created: </string>
+    <string name="todo">TODO</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="footer"> © 2023 Developed by Revenger</string>
+    <string name="never_ignore_small_things">Never Ignore Small Things</string>
+</resources>
